@@ -1,0 +1,82 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+  background-image: url('ganesh1.jpeg');
+  background-size: 100%;
+}
+.Ecard {
+          margin-top: 0px;
+          margin-left: 30%;
+          margin-right: 50%;
+          width: 500px;
+          height: 500px;
+          border: 2px solid red;
+          background-color: black;
+          background-size: cover;
+}
+.Ecard:hover{
+margin-top: 300px;
+          margin-left: 50%;
+          margin-right: 50%;
+          width: 350px;
+          height: 500px;
+          border: 2px solid red;
+          background-color: navy;
+}
+.E-card {
+         border: 2px solid blue;
+         background-color:  navy;
+         height: 40%;
+         
+}
+.E-card-1 {
+         background-color: blue;
+         height: 20px;
+         margin-top: 0px;
+
+.ecard{
+  background-color: navy;
+  height: 10px;
+}
+.omg  img{
+       width: 150px;
+       height: 150px;
+       margin-top: 109px;
+       margin-left: 30%;
+       margin-right: 50%;
+       border-radius: 2px solid red;
+       
+}
+.icon i{
+  margin-top: 20%;
+  margin-left: 15%;
+  color: red;
+  font-size: 30px;
+  align-items: center;
+  justify-content: ;
+  display:
+  border: 2px solid blue;
+  
+  
+}
+.contact div {
+     color: red;
+     font-size: 10px;
+     align-items: center;
+     margin-left: 60px;
+     margin-top: 10px;
+}
+.icon i:hover{
+   color: blue;
+   font-size: 50px;
+   border: 2px solid red;
+}
+.email-id{
+  margin-left: 30px;
+}
+a {
+  text-decoration: none;
+  color: red;
+}
